@@ -5,4 +5,4 @@ def trap(B,h,b):
     l = math.sqrt((cat**2)+(h**2))
     Area = ((B+b)*h)/2
     per = B+b+cat+cat
-    return A, p
+    return Area, per
