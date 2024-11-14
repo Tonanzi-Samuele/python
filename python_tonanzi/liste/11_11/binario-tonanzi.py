@@ -4,7 +4,7 @@ def binario(n):
         print(n%2, end=' ')
 
 def main():
-    n = 0
+    n = 0                      
     while n <= 0:
         n = int(input("inserire numero da convertire: "))
     binario(n)
