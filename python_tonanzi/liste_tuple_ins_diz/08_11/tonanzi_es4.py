@@ -2,5 +2,4 @@ scelta = str(input("inserire parola, se si vuole interrompere inserimento inseri
 l_parole = []
 count = 0
 while scelta != "*":
-    count = count + 1
-     
+    count = count +1 

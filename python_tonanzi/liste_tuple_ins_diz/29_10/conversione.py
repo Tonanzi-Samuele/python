@@ -6,8 +6,8 @@ while scelta != 2:
     for i in range(lung):
         cif = int(input("inserire bit da destra: "))
         bits.append(cif)
-        num = 2
-        
+    
+    
 
 
     scelta = int(input("vuoi continuare col programma premi un numero, altrimenti premi due2 : "))
