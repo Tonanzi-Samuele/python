@@ -1,15 +1,16 @@
 def statistiche():
     punteggi = []
+    ripet = dict()
     punteggio = 0
     somma_punteggi = 0
     c = 0
     punteggi_scarsi = set()
     nuovi_punteggi = []
-    while punteggio >= 0:
+    while punteggio >=0:
         punteggio = int(input("inserisci punteggio: "))
-        if punteggio < 0:
+        if int(punteggio) < 0:
             exit
-        else:
+        else: 
             somma_punteggi = somma_punteggi + punteggio
             c += 1
             punteggi.append(punteggio)
