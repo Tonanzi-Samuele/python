@@ -1,0 +1,136 @@
+{
+    "quiz": {
+      "titolo": "Quiz per l'esame della Patente B",
+      
+      "domande": [
+        {
+          "id": 1,
+          "domanda": "Il segnale raffigurato indica un tratto di strada con possibile presenza di bambini.",
+          "rispostaCorretta": true,
+          "categoria": "Segnali di Pericolo"
+        },
+        {
+          "id": 2,
+          "domanda": "Il limite massimo di velocità sulle autostrade per le autovetture è, salvo diversa segnalazione, di 150 km/h.",
+          "rispostaCorretta": false,
+          "categoria": "Limiti di Velocità",
+          "spiegazione": "Il limite massimo di velocità sulle autostrade per le autovetture è di 130 km/h."
+        },
+        {
+          "id": 3,
+          "domanda": "La patente di categoria B consente di guidare un'autovettura con rimorchio avente massa complessiva superiore a 3500 kg.",
+          "rispostaCorretta": false,
+          "categoria": "Norme sulla Patente",
+          "spiegazione": "La patente B permette di guidare un'autovettura con rimorchio solo se la massa complessiva del rimorchio non supera i 750 kg."
+        },
+        {
+          "id": 4,
+          "domanda": "In presenza di una striscia longitudinale continua è sempre vietato oltrepassarla.",
+          "rispostaCorretta": true,
+          "categoria": "Segnaletica Stradale"
+        },
+        {
+          "id": 5,
+          "domanda": "Il segnale di stop impone di fermarsi e dare precedenza a chi proviene da destra.",
+          "rispostaCorretta": false,
+          "categoria": "Segnaletica Stradale",
+          "spiegazione": "Il segnale di stop impone di fermarsi e dare precedenza a tutti i veicoli provenienti da destra e da sinistra."
+        },
+        {
+          "id": 6,
+          "domanda": "La distanza di sicurezza deve essere aumentata in caso di pioggia o strada bagnata.",
+          "rispostaCorretta": true,
+          "categoria": "Norme di Comportamento"
+        },
+        {
+          "id": 7,
+          "domanda": "È consentito il sorpasso in prossimità o in corrispondenza delle curve.",
+          "rispostaCorretta": false,
+          "categoria": "Norme di Comportamento",
+          "spiegazione": "Il sorpasso è vietato in prossimità o in corrispondenza delle curve o dei dossi."
+        },
+        {
+          "id": 8,
+          "domanda": "Il segnale di dare precedenza ha forma triangolare con punta rivolta verso l'alto.",
+          "rispostaCorretta": true,
+          "categoria": "Segnaletica Stradale"
+        },
+        {
+          "id": 9,
+          "domanda": "La cintura di sicurezza deve essere sempre allacciata, anche per percorsi brevi.",
+          "rispostaCorretta": true,
+          "categoria": "Sicurezza"
+        },
+        {
+          "id": 10,
+          "domanda": "Il conducente può fare uso del telefono cellulare durante la guida purché utilizzi auricolari.",
+          "rispostaCorretta": true,
+          "categoria": "Norme di Comportamento"
+        },
+        {
+          "id": 11,
+          "domanda": "La freccia verde in un semaforo consente di proseguire nella direzione indicata anche con il rosso acceso.",
+          "rispostaCorretta": true,
+          "categoria": "Segnaletica Stradale"
+        },
+        {
+          "id": 12,
+          "domanda": "L'assicurazione RCA è facoltativa per le autovetture.",
+          "rispostaCorretta": false,
+          "categoria": "Assicurazione",
+          "spiegazione": "L'assicurazione RCA è obbligatoria per tutti i veicoli a motore."
+        },
+        {
+          "id": 13,
+          "domanda": "È consentito guidare dopo aver assunto bevande alcoliche purché il tasso alcolemico sia inferiore a 0,8 g/l.",
+          "rispostaCorretta": false,
+          "categoria": "Norme di Comportamento",
+          "spiegazione": "Per i conducenti con patente B da più di 3 anni, il limite è 0,5 g/l. Per neopatentati e conducenti professionali il limite è 0 g/l."
+        },
+        {
+          "id": 14,
+          "domanda": "Il segnale di divieto di sosta si applica anche alla fermata.",
+          "rispostaCorretta": false,
+          "categoria": "Segnaletica Stradale",
+          "spiegazione": "Il segnale di divieto di sosta consente comunque la fermata."
+        },
+        {
+          "id": 15,
+          "domanda": "In caso di nebbia fitta è obbligatorio accendere i proiettori fendinebbia.",
+          "rispostaCorretta": false,
+          "categoria": "Sicurezza",
+          "spiegazione": "I fendinebbia sono facoltativi, mentre è obbligatorio accendere i proiettori anabbaglianti."
+        },
+        {
+          "id": 16,
+          "domanda": "Il triangolo di emergenza deve essere posizionato ad almeno 50 metri dal veicolo fermo.",
+          "rispostaCorretta": true,
+          "categoria": "Sicurezza"
+        },
+        {
+          "id": 17,
+          "domanda": "È obbligatorio dare precedenza ai veicoli di soccorso con sirena attiva e luci lampeggianti.",
+          "rispostaCorretta": true,
+          "categoria": "Norme di Comportamento"
+        },
+        {
+          "id": 18,
+          "domanda": "La revisione ordinaria di un'autovettura va effettuata dopo 4 anni dalla prima immatricolazione e successivamente ogni 2 anni.",
+          "rispostaCorretta": true,
+          "categoria": "Manutenzione Veicolo"
+        },
+        {
+          "id": 19,
+          "domanda": "Sulle strade extraurbane principali il limite massimo di velocità è, salvo diversa segnalazione, di 110 km/h.",
+          "rispostaCorretta": true,
+          "categoria": "Limiti di Velocità"
+        },
+        {
+          "id": 20,
+          "domanda": "I bambini di altezza inferiore a 1,50 m devono essere assicurati al sedile con un sistema di ritenuta omologato.",
+          "rispostaCorretta": true,
+          "categoria": "Sicurezza"
+        }
+      ]
+    }
+  }
